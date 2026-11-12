@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "Education Must Be Free For Everyone - GB STUDY Learning Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
